@@ -1,0 +1,1 @@
+__pycache__/\n*.py[cod]\n*.egg-info/\n.pytest_cache/\n.ruff_cache/\n.venv/\nvenv/\nenv/\ndist/\nbuild/\n.coverage\nhtmlcov/\n.idea/\n.vscode/\n.DS_Store\nThumbs.db\n*.log\nresult.json\n
